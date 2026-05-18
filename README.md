@@ -196,3 +196,4 @@ Bu proje sonunda elde edilen dogrudan ciktilar:
 - Basit state guncelleme ornegi
 - Dogru klasor yapisi ve asset yonetimi
 - Gercek API entegrasyonu ile is ilani listeleme
+# is_bulma_mobil
