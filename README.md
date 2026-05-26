@@ -1,4 +1,4 @@
-# Is Bulma Mini Katalog (Flutter)
+# Alışverii Mini Katalog (Flutter)
 
 Bu proje, Flutter ogrenme surecini adim adim ilerletmek icin hazirlanmis bir egitim projesidir. Uygulama iki temel bolumden olusur:
 
